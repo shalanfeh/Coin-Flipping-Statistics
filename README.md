@@ -91,7 +91,7 @@ Comparing Coin N's largest tail streaks to Coin M's largest tail streaks using a
 
 
 ### Graphs
-![](/Images/THN_Tails.png) <img src="drawing.jpg" alt="drawing" width="200"/>
-![](/Images/THM_Tails.png) <img src="drawing.jpg" alt="drawing" width="200"/>
-![](/Images/SFN_LTS.png) <img src="drawing.jpg" alt="drawing" width="200"/>
-![](/Images/SFM_LTS.png) <img src="drawing.jpg" alt="drawing" width="200"/>
+<img src="/Images/THN_Tails.png" alt="drawing" width="200"/>
+<img src="/Images/THM_Tails.png" alt="drawing" width="200"/>
+<img src="/Images/SFN_LTS.png" alt="drawing" width="200"/>
+<img src="/Images/SFM_LTS.png" alt="drawing" width="200"/>
