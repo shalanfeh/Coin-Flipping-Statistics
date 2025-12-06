@@ -91,7 +91,14 @@ Comparing Coin N's largest tail streaks to Coin M's largest tail streaks using a
 
 
 ### Graphs
+##### Three Heads Normal Coin Tails Histogram
 <img src="/Images/THN_Tails.png" alt="drawing" width="200"/>
+
+##### Three Heads Modded Coin Tails Histogram
 <img src="/Images/THM_Tails.png" alt="drawing" width="200"/>
+
+##### Spam Flips Normal Coin Longest Tail Streak Histogram
 <img src="/Images/SFN_LTS.png" alt="drawing" width="200"/>
+
+##### Spam Flips Modded Coin Longest Tail Streak Histogram
 <img src="/Images/SFM_LTS.png" alt="drawing" width="200"/>
